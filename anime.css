@@ -118,7 +118,7 @@ article label{
 }
 select {
 	float:right -5px;
-	
+	widht:250px;
 	display:inline-block;
 }
 legend {
