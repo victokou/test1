@@ -112,12 +112,14 @@ article label{
 	display: inline-block;
 	float: left;
 	border-radius: 2px;
+	width:200px;
 	
 
 }
 select {
 	float:right -5px;
-	
+	width:185px;
+	display:inline-block;
 }
 legend {
 	text-align: justify;
