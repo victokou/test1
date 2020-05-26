@@ -109,7 +109,7 @@ article{
 	border-radius: 5px;
 }
 article label{
-	display: block;
+	display: inline-block;
 	float: left;
 	border-radius: 2px;
 	width: 200px;
