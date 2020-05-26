@@ -116,11 +116,11 @@ article label{
 	
 
 }
-input,[type="text"],[type="date"],[type="tel"],[type="email"], select{
+[type="texte"],[type="date"],[type="tel"],[type="email"], select{
   
   width: 45%;
   
-  border: 1px solid #CCC;
+  border: 1px ;
   border-radius: 4px;
   box-sizing: border-box; 
   
