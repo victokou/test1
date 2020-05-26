@@ -116,7 +116,7 @@ article label{
 	
 
 }
-input, select{
+input,[type="text"],[type="date"],[type="tel"],[type="email"], select{
   
   width: 45%;
   
@@ -126,9 +126,7 @@ input, select{
   
   resize: vertical 
 }
-input [type="submit"]{
-	widht:30px;
-}
+
 select {
 	float:right -5px;
 	widht:400px;
