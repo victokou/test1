@@ -116,10 +116,21 @@ article label{
 	
 
 }
+input, select{
+  
+  width: 45%;
+  
+  border: 1px solid #CCC;
+  border-radius: 4px;
+  box-sizing: border-box; /* Pour être sûr que la largeur et le padding ne dépassent pas */
+  
+  resize: vertical 
+}
 select {
 	float:right -5px;
-	widht:250px;
+	widht:400px;
 	display:inline-block;
+	
 }
 legend {
 	text-align: justify;
