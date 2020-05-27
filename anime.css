@@ -14,7 +14,7 @@ body
 
 }
 
-/* style pour la date:'la date rentré doit remplir les conditins '*/
+/* style pour la date:'la date rentré doit remplir les conditions '*/
 
 input:invalid+span:after {
   content: '✖';
@@ -133,6 +133,9 @@ select {
   box-sizing: border-box; /* Pour être sûr que la largeur et le padding ne dépassent pas */
   
   resize: vertical 
+}
+[type="submit"]{
+	float:right;
 }
 legend {
 	text-align: justify;
