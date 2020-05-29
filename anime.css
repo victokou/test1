@@ -296,8 +296,14 @@ article,p{
 	width: 20px;
 }
 
-a:visited{
+a:visited/*Apparence du liens après l'avoir visité*/
+{
 	color:#FF0000;
+}
+a:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: blue;
 }
 
 p {
