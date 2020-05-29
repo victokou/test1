@@ -116,6 +116,7 @@ article label{
 }
 input {
 	box-sizing: border-box;
+	text-indent:5px; /*pour séparer le placeholder du bord*/
 }
 select {
 	
